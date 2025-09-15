@@ -1,10 +1,7 @@
+import swap from '../utils/swap.js';
 
 var a = [3, 1, 2, 5, 10, 11, 12, 13];
-function swap(arr, idx1, idx2) {
-    var temp = arr[idx1];
-    arr[idx1] = arr[idx2];
-    arr[idx2] = temp;
-}
+
 function bubbleSort(arr) {
     var isBigger;
     var noSwaps;

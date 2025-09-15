@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "Mofeleng Shadow Mokgope",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "module"
 }
